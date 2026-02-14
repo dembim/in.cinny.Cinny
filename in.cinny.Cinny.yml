@@ -109,9 +109,9 @@ modules:
   - name: Cinny
     sources:
       - type: git
-        url: https://github.com/cinnyapp/cinny-desktop.git
-        tag: v4.10.0
-        commit: fbc70716960943818ca4a5c0a8ee2e1940aecd08
+        url: https://github.com/dembim/cinny-desktop.git
+        branch: noto
+        commit: af16adf8168da77f277596ce9fc1e0afc95d3fda
         x-checker-data:
           type: git
           tag-pattern: ^v((?:\d+.)*\d+)$
