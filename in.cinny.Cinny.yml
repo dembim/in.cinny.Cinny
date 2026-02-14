@@ -111,7 +111,6 @@ modules:
       - type: git
         url: https://github.com/dembim/cinny-desktop.git
         branch: noto
-        commit: af16adf8168da77f277596ce9fc1e0afc95d3fda
         x-checker-data:
           type: git
           tag-pattern: ^v((?:\d+.)*\d+)$
